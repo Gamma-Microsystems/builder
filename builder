@@ -26,7 +26,7 @@
 
 set -e
 
-builder_major_ver="Unstable"
+builder_major_ver="1"
 builder_minor_ver="0"
 
 builder_version="${builder_major_ver}.${builder_minor_ver}"
